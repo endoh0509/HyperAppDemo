@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node_modules/.bin/webpack --watch -p"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "KatsuyaEndoh",
+  "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.24.1",
     "babel-loader": "^6.4.1",
